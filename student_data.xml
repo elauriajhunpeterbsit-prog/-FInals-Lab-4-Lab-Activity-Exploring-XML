@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+  <student>
+    <id>001</id>
+    <name>Bauso, Markjohn D.</name>
+    <course>BSIT</course>
+    <year>3</year>
+  </student>
+
+  <student>
+    <id>002</id>
+    <name>Elauria, Jhunpeter</name>
+    <course>BSIT</course>
+    <year>3</year>
+  </student>
+
+  <student>
+    <id>003</id>
+    <name>Bagting, ChrisJasper</name>
+    <course>BSIT</course>
+    <year>3</year>
+  </student>
+  
+  <student>
+    <id>004</id>
+    <name>Torres, Harrisloyd</name>
+    <course>BSIT</course>
+    <year>3</year>
+  </student>
+  
+   <student>
+    <id>005</id>
+    <name>Alvarez, Robin</name>
+    <course>BSIT</course>
+    <year>3</year>
+  </student>
+</students>
